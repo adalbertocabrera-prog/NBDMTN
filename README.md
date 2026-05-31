@@ -21,3 +21,11 @@ This repository preserves the origin, lore, timeline, and visual artifacts of th
 ## Status
 
 Season 0 foundation is under construction.
+
+
+NBDMTN ARCHIVE
+
+An ongoing collection of recovered artifacts connected
+to the first verified appearance of the Signal.
+
+The archive is incomplete.
